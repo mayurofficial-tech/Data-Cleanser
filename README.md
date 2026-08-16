@@ -10,7 +10,6 @@ A complete healthcare data-cleaning and preprocessing project using Python.
 
 ▶️ **[Watch Project Explanation Video](https://drive.google.com/file/d/1g7JMIvaslyv5zHR1pPWz3B6KY2qL4Px7/view?usp=drive_link)**
 
-> Replace `YOUR_VIDEO_LINK_HERE` with your actual project video link.
 
 ---
 
